@@ -1,8 +1,8 @@
+
 import jssc.SerialPort;
 import jssc.SerialPortEvent;
 import jssc.SerialPortEventListener;
 import jssc.SerialPortException;
-
 public class Test {
 
     private static SerialPort serialPort;
